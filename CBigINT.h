@@ -1,0 +1,4 @@
+#ifndef CBIGINT_H_INCLUDED
+#define CBIGINT_H_INCLUDED
+
+#endif // CBIGINT_H_INCLUDED
