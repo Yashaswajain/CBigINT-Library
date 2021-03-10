@@ -4,7 +4,7 @@ This library consists up of various BIG INTEGER functions written in C++ which a
 BIG INTEGERS are those integers which can be accomodated in a normal data type of 64 bit capacity.
 
 This library consists up of 14 various functions to be used for big integers:
-
+<pre>
 1.)CBigINT_add(string,string)-Return sum of two big integers.
 //
 2.)CBigINT_sub(string,string)-Return difference of two big integers.
@@ -32,3 +32,10 @@ This library consists up of 14 various functions to be used for big integers:
 13.)CBigINT_nextPerm(string)-Form next permutation (if possible) of big integer.
 //
 14.)CBigINT_prevPerm(string)-Form previous permutation (if possible) of big integer.
+</pre>
+
+
+SOME QUESTIONS BASED ON BIG INTEGER:
+<a href="https://www.codechef.com/problems/EXOCODE5">Chef The Brave Warrior</a><br>
+<a href="https://www.codechef.com/problems/WRDSUM">Weird Sum</a><br>
+<a href="https://www.codechef.com/problems/RPH001">Ganesh Impresses Jojo</a><br>
